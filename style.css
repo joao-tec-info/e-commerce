@@ -1,0 +1,11 @@
+a{
+    list-style: none;
+}
+
+    #logo {
+        max-width: 70px; /* Define a largura máxima da logo */
+        height: auto; /* Mantém a proporção da imagem */
+        display: block; /* Faz com que a imagem se comporte como um bloco */
+        margin: 0 auto; /* Centraliza a imagem horizontalmente */
+        padding: 10px; /* Adiciona um pouco de espaçamento ao redor da imagem */
+      }
